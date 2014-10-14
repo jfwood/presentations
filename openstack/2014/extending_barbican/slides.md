@@ -1,4 +1,4 @@
-# Barbican 
+# Extending Barbican - Managing Secrets and Events Your Way
 ---
 # Your Presenters Today:
 
